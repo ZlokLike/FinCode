@@ -1,7 +1,5 @@
 # FinCode - Advanced Financial Code Editor 💼
 
-[![image.png](https://i.postimg.cc/90wPLz0q/image.png)](https://postimg.cc/Pvh8xXmt)
-
 > Modern, minimalist code editor specifically designed for financial developers and analysts
 
 ## ✨ Features
@@ -18,6 +16,8 @@
 - **Electron** - Cross-platform desktop framework
 - **HTML/CSS/JavaScript** - Core web technologies
 - **Fira Code** - Beautiful programming font with ligatures
+Screenshot:
+[![image.png](https://i.postimg.cc/90wPLz0q/image.png)](https://postimg.cc/Pvh8xXmt)
 
 ## 🚀 Quick Start
 
