@@ -16,6 +16,7 @@
 - **Electron** - Cross-platform desktop framework
 - **HTML/CSS/JavaScript** - Core web technologies
 - **Fira Code** - Beautiful programming font with ligatures
+
 Screenshot:
 [![image.png](https://i.postimg.cc/90wPLz0q/image.png)](https://postimg.cc/Pvh8xXmt)
 
